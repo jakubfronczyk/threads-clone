@@ -1,5 +1,5 @@
 function Bottombar() {
-    return <h1>Bottom bar</h1>;
+    return <h1>Bottom bar</h1>
 }
 
-export default Bottombar;
+export default Bottombar

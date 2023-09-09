@@ -1,4 +1,4 @@
-import { UserButton } from "@clerk/nextjs";
+import { UserButton } from '@clerk/nextjs'
 
 export default function Home() {
     return (
@@ -6,5 +6,5 @@ export default function Home() {
             {/* <UserButton afterSignOutUrl="/" /> */}
             <h1 className="head-text text-left">Home</h1>
         </>
-    );
+    )
 }

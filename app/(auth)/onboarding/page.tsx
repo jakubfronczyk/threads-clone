@@ -3,7 +3,7 @@ async function Page() {
         <main>
             <h1 className="head-text">Onboarding</h1>
         </main>
-    );
+    )
 }
 
-export default Page;
+export default Page
