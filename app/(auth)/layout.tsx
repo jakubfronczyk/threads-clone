@@ -6,7 +6,7 @@ import "../globals.css";
 
 export const metadata: Metadata = {
     title: "Threads Clone",
-    description: "Theads Clone built by Jakub Fronczyk",
+    description: "Threads Clone built by Jakub Fronczyk",
 };
 
 const inter = Inter({ subsets: ["latin"] });
